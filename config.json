@@ -1,0 +1,5 @@
+{
+  "ApiKey": "xxxxxxxxxxxxxxxx",
+  "ApiSecretKey": "xxxxxxxxxxxxxx",
+  "ApiHost": "https://www.bitmex.com"
+}
