@@ -6,7 +6,7 @@
  * Time: 10:36 AM
  */
 
-namespace Apps\Trade\vendor\digital_currency\src\digitalCurrencyAPI;
+namespace src\digitalCurrencyAPI;
 
 
 class Params

@@ -5,7 +5,7 @@
  * Date: 8/25/18
  * Time: 11:02 AM
  */
-namespace Apps\Trade\vendor\digital_currency\src\digitalCurrencyAPI;
+namespace src\digitalCurrencyAPI;
 
 
 class Proxy

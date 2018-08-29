@@ -1,6 +1,6 @@
 <?php
 
-namespace Apps\Trade\vendor\digital_currency\src\digitalCurrencyAPI;
+namespace src\digitalCurrencyAPI;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Psr7\Request;

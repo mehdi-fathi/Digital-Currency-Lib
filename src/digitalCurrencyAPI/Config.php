@@ -6,7 +6,7 @@
  * Time: 10:29 AM
  */
 
-namespace Apps\Trade\vendor\digital_currency\src\digitalCurrencyAPI;
+namespace src\digitalCurrencyAPI;
 
 class Config
 {

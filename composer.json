@@ -1,0 +1,15 @@
+{
+  "name": "Digital Currency",
+  "description": "The lib digital currency for work by API digital currency as BitMex",
+  "keywords": [
+    "library",
+    "library digital currency API",
+    "library digital currency BitMex"
+  ],
+  "type": "project",
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}

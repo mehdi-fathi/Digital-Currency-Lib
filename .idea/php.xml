@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="PhpCodeSniffer">
-    <phpcs_settings>
-      <PhpCSConfiguration standards="'openssl';0;Module;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Unknown;Warning:;Zend;already;in;line;loaded;on" tool_path="C:/xampp/php/phpcs" />
-    </phpcs_settings>
-  </component>
-</project>
